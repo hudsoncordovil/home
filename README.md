@@ -1,3 +1,3 @@
 # Hudson Cordovil
-**Bacharel em Sistemas de Informação
-Servidor Publico Federal**
+- **Bacharel em Sistemas de Informação**
+- **Servidor Publico Federal**
